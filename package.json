@@ -2,6 +2,7 @@
   "name": "random-generator",
   "version": "0.1.0",
   "private": true,
+  "author": "Joshwa Facistol",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
