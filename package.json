@@ -2,7 +2,7 @@
   "name": "random-generator",
   "version": "0.1.0",
   "private": true,
-  "author": "Joshwa Facistol",
+  "author": "Joshwa Facistol <fastline2123@gmail.com> (https://faci-tech.com)",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
